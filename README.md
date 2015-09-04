@@ -7,7 +7,6 @@ ABACAS2 is a tool to order and orientate a set of input sequences along a refere
  - Perl 5
  - MUMmer version 3
  - NCBI BLAST (needs `blastall`)
- - 
 
 ### Installation
 To run ABACAS2, make sure all dependencies are installed and available in your `$PATH`.
